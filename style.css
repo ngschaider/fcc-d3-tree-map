@@ -1,0 +1,14 @@
+#root {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#tooltip {
+  opacity: 0;
+  position: absolute;
+  background-color: #eee;
+}
+
+svg {
+  background-color: #fafafa;
+}
